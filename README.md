@@ -28,6 +28,15 @@ The `Address` column is removed before training as it is not useful for numerica
 
 ---
 
+## Dataset Source
+
+Dataset used in this project is sourced from Kaggle:
+- https://www.kaggle.com/code/dibkb9/usa-housing
+
+All credit goes to the original dataset creator.
+
+---
+
 ## Project Structure
 
 ```text
