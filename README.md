@@ -44,8 +44,11 @@ USA-Housing-Prediction/
 │
 ├── USA_Housing.csv
 ├── USA_Housing_predictions.py
+├── outlier_analysis.png
 ├── README.md
-└── outlier_analysis.png
+├── .gitignore
+└── LICENSE
+
 ```
 
 ---
