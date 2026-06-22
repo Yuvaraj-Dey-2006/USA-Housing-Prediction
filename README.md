@@ -43,7 +43,7 @@ All credit goes to the original dataset creator.
 USA-Housing-Prediction/
 │
 ├── USA_Housing.csv
-├── USA_Housing_predictions.py
+├── USA_housing_predictions.py
 ├── outlier_analysis.png
 ├── README.md
 ├── .gitignore
